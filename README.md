@@ -297,7 +297,7 @@ Ubaidullah Waheed
 
 [![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UbaidullahWaheed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ubaidullah-waheed-a119ba383/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BdNIy1mI%2BRR6PWccooottQQ%3D%3D)
-[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](ubaidullahwaheed685@gmail.com)
+[![Email](https://img.shields.io/badge/ubaidullahwaheed685s@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](ubaidullahwaheed685@gmail.com)
 
 </div>
 
